@@ -1,6 +1,6 @@
 # Welcome to My Portfolio
 
-Hello! I'm a passionate developer who loves building creative projects and writing about my journey in tech. Below you'll find links to some of my favorite projects, code repositories, and detailed write-ups.
+Hello! I'm a passionate developer who loves building creative projects and sharing my journey in tech. Below you'll find links to some of my favorite projects, code repositories, write-ups, certifications, and social media profiles.
 
 ---
 
@@ -27,7 +27,7 @@ Here are a few projects I've worked on:
 I also maintain several repositories that showcase my coding skills and collaborative projects:
 
 - **[Utility Scripts](https://github.com/yourusername/utility-scripts)**  
-  A collection of scripts and small tools to automate everyday tasks.
+  A collection of scripts and tools to automate everyday tasks.
 
 - **[Open Source Contributions](https://github.com/yourusername/open-source)**  
   My contributions to various open source projects, including bug fixes, new features, and documentation improvements.
@@ -49,6 +49,36 @@ I enjoy sharing my knowledge and experiences. Check out some of my latest articl
 
 - **[Understanding Async/Await in JavaScript](https://yourblog.com/async-await-guide)**  
   A comprehensive write-up on asynchronous programming in JavaScript using async/await.
+
+---
+
+## 🎓 Certifications
+
+I've earned several certifications that reflect my commitment to continuous learning and expertise in various technologies:
+
+- **[Certified JavaScript Developer](#)**  
+  Issued by [Certification Authority](#)  
+  *Date Awarded: Month Year*
+
+- **[AWS Certified Solutions Architect](#)**  
+  Issued by Amazon Web Services  
+  *Date Awarded: Month Year*
+
+- **[Professional Web Developer](#)**  
+  Issued by [Certification Authority](#)  
+  *Date Awarded: Month Year*
+
+---
+
+## 🌐 Social Media
+
+Connect with me on social media:
+
+- **[LinkedIn](https://www.linkedin.com/in/yourusername)**
+- **[Twitter](https://twitter.com/yourusername)**
+- **[GitHub](https://github.com/yourusername)**
+- **[Instagram](https://instagram.com/yourusername)**
+- **[Blog](https://yourblog.com)**
 
 ---
 
