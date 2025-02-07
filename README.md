@@ -54,31 +54,11 @@ I enjoy sharing my knowledge and experiences. Check out some of my latest articl
 
 ## 🎓 Certifications
 
-I've earned several certifications that reflect my commitment to continuous learning and expertise in various technologies:
 
-- **[Certified JavaScript Developer](#)**  
-  Issued by [Certification Authority](#)  
-  *Date Awarded: Month Year*
+- CompTIA Security+ 
+  Issued by [CompTIA](#)  
+  *Date Awarded: 02/23*
 
-- **[AWS Certified Solutions Architect](#)**  
-  Issued by Amazon Web Services  
-  *Date Awarded: Month Year*
-
-- **[Professional Web Developer](#)**  
-  Issued by [Certification Authority](#)  
-  *Date Awarded: Month Year*
-
----
-
-## 🌐 Social Media
-
-Connect with me on social media:
-
-- **[LinkedIn](https://www.linkedin.com/in/yourusername)**
-- **[Twitter](https://twitter.com/yourusername)**
-- **[GitHub](https://github.com/yourusername)**
-- **[Instagram](https://instagram.com/yourusername)**
-- **[Blog](https://yourblog.com)**
 
 ---
 
