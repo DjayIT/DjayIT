@@ -1,4 +1,4 @@
-# Deej McAmis — Cyber Operations (Defense & Forensics)
+# DJ McAmis — Cyber Operations (Defense & Forensics)
 
 Systems Operator @ Walmart · B.S. Cyber Operations (Defense & Forensics), Univ. of Arizona — Spring 2026  
 CompTIA Security+ (active)
