@@ -1,6 +1,6 @@
 # Deej McAmis — Cyber Operations (Defense & Forensics)
 
-Systems Operator @ Walmart DC 6039 · B.S. Cyber Operations (Defense & Forensics), Univ. of Arizona — Spring 2026  
+Systems Operator @ Walmart · B.S. Cyber Operations (Defense & Forensics), Univ. of Arizona — Spring 2026  
 CompTIA Security+ (active)
 
 I build practical security tooling, incident response playbooks, and small automations that make blue-team work faster and clearer.
