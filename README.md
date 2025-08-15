@@ -1,65 +1,41 @@
-# Welcome to My Portfolio
+# Deej McAmis — Cyber Operations (Defense & Forensics)
 
-Hello! I'm a passionate developer who loves building creative projects and sharing my journey in tech. Below you'll find links to some of my favorite projects, code repositories, write-ups, certifications, and social media profiles.
+Systems Operator @ Walmart DC 6039 · B.S. Cyber Operations (Defense & Forensics), Univ. of Arizona — Spring 2026  
+CompTIA Security+ (active)
 
----
-
-## 🚀 Projects
-
-Here are a few projects I've worked on:
-
-- **[Awesome Web App](https://github.com/yourusername/awesome-web-app)**  
-  A modern web application built with React and Node.js that solves [describe problem/feature].  
-  [Live Demo](https://yourusername.github.io/awesome-web-app) | [Code](https://github.com/yourusername/awesome-web-app)
-
-- **[Data Visualizer](https://github.com/yourusername/data-visualizer)**  
-  A data visualization tool that leverages D3.js to turn complex datasets into interactive charts and graphs.  
-  [Live Demo](https://yourusername.github.io/data-visualizer) | [Code](https://github.com/yourusername/data-visualizer)
-
-- **[Mobile Companion](https://github.com/yourusername/mobile-companion)**  
-  A mobile-first application that helps users manage daily tasks on the go.  
-  [Download](#) | [Code](https://github.com/yourusername/mobile-companion)
+I build practical security tooling, incident response playbooks, and small automations that make blue-team work faster and clearer.
 
 ---
 
-## 💻 Code Repositories
+## Featured Projects
+- **Forensics File Hasher** — Walks a directory, computes SHA-256, exports `hashes.csv`.  
+  _Skills:_ Python, hashing, file I/O  
+  `forensics-file-hasher` (code)
 
-I also maintain several repositories that showcase my coding skills and collaborative projects:
+- **Wireshark IOC Detection** — Filters and extracts suspicious endpoints from PCAPs, outputs a tidy CSV.  
+  _Skills:_ Network forensics, regex, scripting  
+  `wireshark-ioc-detection` (code)
 
-- **[Utility Scripts](https://github.com/yourusername/utility-scripts)**  
-  A collection of scripts and tools to automate everyday tasks.
+- **Volatility3 Memory Triage** — Automated plugins + quick report generator for Windows memory images.  
+  _Skills:_ DFIR, Volatility, reporting  
+  `vol3-memory-triage` (code)
 
-- **[Open Source Contributions](https://github.com/yourusername/open-source)**  
-  My contributions to various open source projects, including bug fixes, new features, and documentation improvements.
-
-- **[Learning Projects](https://github.com/yourusername/learning-projects)**  
-  A set of projects where I experiment with new technologies and refine my coding skills.
-
----
-
-## 📝 Write-ups & Tutorials
-
-I enjoy sharing my knowledge and experiences. Check out some of my latest articles and tutorials:
-
-- **[Building a Scalable Web App](https://medium.com/@yourusername/scalable-web-app)**  
-  A deep dive into the architecture and technologies behind building a scalable web application.
-
-- **[Introduction to React Hooks](https://dev.to/yourusername/introduction-to-react-hooks)**  
-  An easy-to-follow guide for beginners looking to understand and use React Hooks effectively.
-
-- **[Understanding Async/Await in JavaScript](https://yourblog.com/async-await-guide)**  
-  A comprehensive write-up on asynchronous programming in JavaScript using async/await.
+> After I push, I’ll pin these repos below.
 
 ---
 
-## 🎓 Certifications
-
-
-- CompTIA Security+ 
-  Issued by [CompTIA](#)  
-  *Date Awarded: 02/23*
-
+## Skills
+**DFIR:** Autopsy, Volatility, FTK Imager · **Network:** Wireshark, Zeek basics ·  
+**Scripting:** Python, Bash, PowerShell · **Cloud/Git:** GitHub, README/Docs ·  
+**Ops:** Ticketing, SOPs, on-call coordination
 
 ---
 
-Feel free to reach out or contribute if you'd like to collaborate or have any questions!
+## Certifications
+- **CompTIA Security+** — valid through Feb 2026
+
+---
+
+## Contact
+- **LinkedIn:** https://www.linkedin.com/in/mcamisdj
+
